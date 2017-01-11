@@ -374,7 +374,6 @@ Start Log-in page
 }
 
 #LoginBtn {
-
     background-color: #c6c6c6;
     outline: 0px;
     margin-top: 20px;
@@ -420,7 +419,6 @@ Start Log-in page
 }
 
 #SignupBtn {
-
     background-color: #2a2a2a;
     outline: 0px;
     margin-top: 20px;
@@ -497,12 +495,16 @@ Start Log-in page
     font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif;
 }
 
-#radioButton{
+#radioButton input{
     float: left;
 }
 
-#{
-    margin-left: -20px;
+#radioButton{
+    margin-left: -520px;
+}
+
+#radioButton2{
+    margin-left: -460px;
 }
 
 /**
