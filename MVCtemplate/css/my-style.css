@@ -187,7 +187,7 @@ start of shop page
     border-radius: 4px;
     font-size: 18px;
     background-color: white;
-    background-image: url('../images/searchicon.png');
+    /*background-image: url('../images/searchicon.png');*/
     background-position: 10px 15px;
     background-repeat: no-repeat;
     padding: 15px 20px 12px 40px;
